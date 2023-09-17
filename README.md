@@ -27,8 +27,8 @@ built with:
 Python, Javascript, HTML, Flask, MIDI
 
 Other sources we used:
-https://github.com/spotify/basic-pitch
-https://github.com/GabrielDelight/gabriel-voice-recorder-app
-https://arxiv.org/abs/2108.11213
+https://github.com/spotify/basic-pitch \
+https://github.com/GabrielDelight/gabriel-voice-recorder-app \
+https://arxiv.org/abs/2108.11213 \
 https://magenta.tensorflow.org/music-transformer 
 
